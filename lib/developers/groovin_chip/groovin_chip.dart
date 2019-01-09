@@ -344,10 +344,9 @@ class _GroovinChipPageState extends State<GroovinChipPage> {
                           child: Row(
                             children: <Widget>[
                               Flexible(
-                              child:
-                              Text(
-                                "This package includes custom widgets built by me.",
-                              ),
+                                child: Text(
+                                  "This package includes custom widgets built by me.",
+                                ),
                               )
                             ],
                           ),
